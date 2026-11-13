@@ -1,5 +1,7 @@
 # CRYPT-BAT
 CRYPT-BAT is a desktop application developed with Python, featuring Morse Code encoding and decoding, as well as image steganography.
+
+
 ✨ Features
 
 1. Morse Code
@@ -29,8 +31,11 @@ A dedicated section introducing the developer.
 4. Easter Egg
 
 An unexpected hidden interaction waiting for curious users. 🦇
+
+
 📦 Installation
 Download the executable file from this link and run CRYPT-BAT.exe.
+
 👨‍💻 Developer
 
 Created by Alireza F (orca)
