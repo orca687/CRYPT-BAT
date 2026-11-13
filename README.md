@@ -33,8 +33,11 @@ A dedicated section introducing the developer.
 An unexpected hidden interaction waiting for curious users. 🦇
 
 
-📦 Installation
-Download the executable file from this link and run CRYPT-BAT.exe.
+📦 ### Installation
+
+Download the executable file from the link below and run `CRYPT-BAT.exe`.
+
+[Download CRYPT-BAT.exe](https://github.com/orca687/CRYPT-BAT/releases/download/CRYPT-BAT-Final-Edition/CRYPT-BAT.exe)
 
 👨‍💻 Developer
 
